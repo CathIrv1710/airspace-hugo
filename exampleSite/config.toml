@@ -1,4 +1,4 @@
-baseURL = "http://dekko-test.netlify.com"
+baseURL = "http://dekkosecure-test.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
