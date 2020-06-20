@@ -3,12 +3,15 @@ label: Project
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: DekkoSECURE_Home
+  label: DekkoSECURE Home
+  description: Demand DekkoSECURE for confidential communication and collaboration.
+    The only platform built with security first
 - type: text
-  name: description
-  label: description
-  description: this is meta description
+  name: DekkoSECURE
+  label: DekkoSECURE
+  description: Demand DekkoSECURE for confidential communication and collaboration.
+    The only platform built with security first
 - type: file
   name: image
   label: image
